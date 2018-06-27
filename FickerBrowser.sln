@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FickerBrowser", "FickerBrowser\FickerBrowser.csproj", "{B31F8F9C-E813-47FE-8AF1-0E2FAADE97EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B31F8F9C-E813-47FE-8AF1-0E2FAADE97EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B31F8F9C-E813-47FE-8AF1-0E2FAADE97EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B31F8F9C-E813-47FE-8AF1-0E2FAADE97EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B31F8F9C-E813-47FE-8AF1-0E2FAADE97EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6BE128F-FA19-4238-9827-206530F46664}
+	EndGlobalSection
+EndGlobal
